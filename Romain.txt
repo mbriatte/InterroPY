@@ -1,0 +1,4 @@
+question = en quelle année a eu lieu la révolution française=> solutions=['1789', '1786', '1792'] , proposition = 1789, correct = True
+question = 8*7, proposition = 56, correct = True
+question = qui est le president=> solutions=['Hollande', 'Chirac'] , proposition = Hollande, correct = True
+question = 1+2, proposition = 3, correct = True
