@@ -27,5 +27,5 @@ class QuestionWithResponse(Question):
         if len(self.choix)==1:
             return [] 
         else:
-            return self.choix
+            return sorted(self.choix)
 

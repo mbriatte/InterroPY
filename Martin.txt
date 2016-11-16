@@ -1,0 +1,2 @@
+question = qui est le copain de Woody=> solutions=['Buzz', 'Bumblebee'] , proposition = Buzz, correct = True
+question = 1+1, proposition = 1, correct = False
